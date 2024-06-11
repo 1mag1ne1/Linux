@@ -1,8 +1,8 @@
 monitor-linux(监控linux)
 ===
 
-设计需求：一到周末，公司总是会让我们人肉监控服务器状态
-我觉得这种东西如果可以实现一个远程自动化的监控工具是再好不过了，周末可以省下大把时间去浪:smile:~
+设计需求：监控服务器状态
+可以实现一个远程自动化的监控工具是再好不过了，周末可以省下大把时间去玩
 
 
 Environment(环境)
@@ -35,12 +35,3 @@ monitor-linux(:smiling_imp:)
         |--util.py              (工具类)
     |--run.py                   (程序入口)
 
-相关文章链接
----
-慕课网首发手记:http://www.imooc.com/article/251463
-
-自带BGM的博客:https://blog.csdn.net/s740556472/article/details/82890586
-
-初学者有学python的可以关注公众号哟！
-
-![migezatan](https://img-blog.csdnimg.cn/20181104164256754.png)
